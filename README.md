@@ -5,7 +5,7 @@ Doctor rota application for Excel.
 ## Instatllation
 
 * Clone the repo.
-* Open 'rota-test.xlsm' in Excel.
+* Open `rota-test.xlsm` in Excel.
 * Enable editing and enable macros.
 
 ## Usage
