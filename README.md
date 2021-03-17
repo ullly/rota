@@ -20,4 +20,4 @@ UÓM and CR.
 
 ## License
 
-N/A.
+See /LICENSE.
