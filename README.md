@@ -1,6 +1,6 @@
 # rota
 
-Doctor rota application for Excel.
+Doctor rota application for Excel. Built to explore the basics of VBA and macros. 
 
 ## Instatllation
 
